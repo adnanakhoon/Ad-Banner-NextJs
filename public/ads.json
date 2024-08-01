@@ -1,0 +1,17 @@
+[
+    {
+      "title": "React Course",
+      "description": "This course offers a deep dive into React, a popular JavaScript library for building user interfaces. Designed for both beginners and experienced developers, it covers everything from the basics of React to advanced techniques, ensuring you can build powerful, modern web applications.",
+      "cta": "Shop Now",
+      "image": "/images/img1.jpg",
+      "background": "Course"
+    },
+    {
+      "title": "Our Mentor",
+      "description": "Meet Pooja, a seasoned software engineer with over 12 years of experience in the technology industry. Currently serving as Senior Software Engineer at Innovate Tech Solutions, pooja is renowned for their expertise in web development and data engineering.",
+      "cta": "Learn More",
+      "image": "/images/img2.jpg",
+      "background": "Mentor"
+    }
+  ]
+  
