@@ -1,10 +1,13 @@
 {
+  "homepage": "https://adnanakhoon.github.io/Ad_Banner_NextJs/",
   "name": "grow-easy",
   "version": "0.1.0",
   "private": true,
   "scripts": {
+      "build": "next build",
+      "export": "next export",
+      "deploy": "npm run build && npm run export && gh-pages -d out",
     "dev": "next dev",
-    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },

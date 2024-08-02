@@ -1,6 +1,10 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-    output :"export",
-};
+module.exports = {
+    output: 'export',
+    assetPrefix: './',
+    images: {
+      unoptimized: true
+    }
+  };
 
 export default nextConfig;
