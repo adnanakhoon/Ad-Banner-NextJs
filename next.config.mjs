@@ -1,10 +1,18 @@
 /** @type {import('next').NextConfig} */
 module.exports = {
-    output: 'export',
-    assetPrefix: './',
-    images: {
-      unoptimized: true
-    }
+   
   };
 
 export default nextConfig;
+
+
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  output: 'export',
+  assetPrefix: './',
+  images: {
+    unoptimized: true
+  }
+}
+ 
+module.exports = nextConfig
